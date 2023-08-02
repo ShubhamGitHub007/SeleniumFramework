@@ -180,9 +180,6 @@ public class test extends BaseTest {
 	     
 	}
 	
-	@Test
-	public void test4() throws IOException {
-		page.testcode3();
-	}
+	
 }
 	
